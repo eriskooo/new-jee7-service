@@ -1,0 +1,10 @@
+{
+  "command": 0,
+  "errorMessage": "Failed with parsing articleEp20 subrecord",
+  "eventId": 0,
+  "processId": "0x1040",
+  "processName": "PSI Gateway",
+  "responseCommand": 0,
+  "systemStatus": 0,
+  "userStatus": 0
+}

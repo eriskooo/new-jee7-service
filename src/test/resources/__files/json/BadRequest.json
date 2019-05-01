@@ -1,0 +1,10 @@
+{
+  "command": 0,
+  "errorMessage": "Invalid format of accountNoLow and accountNoHigh",
+  "eventId": 0,
+  "processId": "0x1040",
+  "processName": "PSI Gateway",
+  "responseCommand": 0,
+  "systemStatus": 0,
+  "userStatus": 0
+}
